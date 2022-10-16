@@ -1,5 +1,5 @@
 function randomizer(max) {
-    i= Math.floor(Math.random() * 21);
+    i= Math.floor(Math.random() * 20);
   document.getElementById("quote").innerHTML = quotes[i]
   console.log(quotes.length)
 }
