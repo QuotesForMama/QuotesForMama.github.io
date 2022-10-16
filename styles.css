@@ -1,5 +1,8 @@
 button {width: 20vh;
 height: 8vh;
-background-color: aqua;}
+background-color: aqua;
+border-radius: 10px;}
 
-#quote {background-color: aqua;}
+#quote {background-color: aqua;
+padding:10px;
+border-radius: 10px;}
